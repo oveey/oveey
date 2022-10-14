@@ -9,7 +9,7 @@ I'm a Web developer, and Product designer currently working as a Product designe
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript, Reactjs, and Python.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 😊 I’m looking for help with open source projects, hackathons, and more opportunities.
 - 💼 Job interests:Front-end Engineer, or UI/UX Engineer.
 - 📫 You can [view my resume](https://drive.google.com/file/d/1r_Ab1BW866-ZsraMPyZt8aAikLT4lnAM/view?usp=sharing) and contact me by emailing ovieigere@gmail.com.
 
