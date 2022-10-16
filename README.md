@@ -11,7 +11,7 @@ I'm a Web developer, and Product designer currently working as a Product designe
 - 🌱 I’m currently learning JavaScript, Reactjs, and Python.
 - 😊 I’m looking for help with open source projects, hackathons, and more opportunities.
 - 💼 Job interests:Front-end Engineer, or UI/UX Engineer.
-- 📫 You can [view my resume](https://drive.google.com/file/d/1r_Ab1BW866-ZsraMPyZt8aAikLT4lnAM/view?usp=sharing) and contact me by emailing ovieigere@gmail.com.
+- 📫 You can [view my resume]https://drive.google.com/file/d/1tIqrRFgglKZz5t1HWsQYbU4-rvmw9t5w/view?usp=sharing and contact me by emailing ovieigere@gmail.com.
 
 ---
 
